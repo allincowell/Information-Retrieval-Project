@@ -11,19 +11,16 @@ Part A consists of 2 tasks whereas Part B consists of 1 task.
 
 The details for each of the tasks have also been added in the repo.
 
----
 
 ## Part A (Task 1)
 
 It involved building an Inverted Index, Query Processing and Boolean Retrieval.
 
----
 
 ## Part A (Task 2)
 
 Using the inverted index built before, TF-IDF vectorization is done followed by evaluation w.r.t the gold-standard list of documents.
 
----
 
 ## Part B
 
